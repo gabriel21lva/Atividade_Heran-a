@@ -1,0 +1,51 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TesteVendedor",
+            "request": "launch",
+            "mainClass": "TesteVendedor",
+            "projectName": "Atividade_Herança_d4cec292"
+        },
+        {
+            "type": "java",
+            "name": "TesteOperario",
+            "request": "launch",
+            "mainClass": "TesteOperario",
+            "projectName": "Atividade_Herança_d4cec292"
+        },
+        {
+            "type": "java",
+            "name": "TesteAdministrador",
+            "request": "launch",
+            "mainClass": "TesteAdministrador",
+            "projectName": "Atividade_Herança_d4cec292"
+        },
+        {
+            "type": "java",
+            "name": "TesteEmpregado",
+            "request": "launch",
+            "mainClass": "TesteEmpregado",
+            "projectName": "Atividade_Herança_d4cec292"
+        },
+        {
+            "type": "java",
+            "name": "TesteFornecedor",
+            "request": "launch",
+            "mainClass": "TesteFornecedor",
+            "projectName": "Atividade_Herança_d4cec292"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Atividade_Heranca.TesteFornecedor",
+            "projectName": "Atividade_Herança",
+            "classPaths": [
+                "bin"
+            ]
+        }
+    ]
+  }
+  
